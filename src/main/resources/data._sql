@@ -1,0 +1,2 @@
+INSERT INTO CONTATO(nome, idade, email, telefone, senha, data_nascimento, data_cadastro)
+VALUES('Eduardo',44, 'edu@email.com', '8765432','654321', '1998-06-28 20:00:00', '2019-05-05 20:00:00');
